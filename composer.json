@@ -1,6 +1,6 @@
 {
     "name": "misanthrope1408/laravel-visitor-tracker",
-    "description": "Visitor tracker and statistics for Laravel 5",
+    "description": "Visitor tracker and statistics for Laravel 5+",
     "type": "library",
     "license": "MIT",
     "authors": [
